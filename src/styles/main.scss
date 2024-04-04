@@ -12,7 +12,12 @@
     color: variables.$textColor;
     list-style: none;
 }
-
+footer {
+    background-color: blueviolet;
+    position: relative;
+    padding: 12px 350px;
+    justify-content: space-between;
+}
 
 
 
